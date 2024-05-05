@@ -1,15 +1,15 @@
 import React from "react";
 import "./App.css";
-import Header from "./conponents/header/Header";
-import Home from "./conponents/home/Home";
-import About from "./conponents/about/About";
-import Skills from "./conponents/skills/Skills";
-import Services from "./conponents/services/Services";
-import Qualification from "./conponents/qualification/Qualification";
-import Testimonials from "./conponents/testimonials/Testimonials";
-import Contact from "./conponents/contact/Contact";
-import Footer from "./conponents/footer/Footer";
-import ScrollUp from "./conponents/scrollup/Scrollup";
+import Header from "./components/header/Header";
+import Home from "./components/home/Home";
+import About from "./components/about/About";
+import Skills from "./components/skills/Skills";
+import Services from "./components/services/Services";
+import Qualification from "./components/qualification/Qualification";
+import Testimonials from "./components/testimonials/Testimonials";
+import Contact from "./components/contact/Contact";
+import Footer from "./components/footer/Footer";
+import ScrollUp from "./components/scrollup/Scrollup";
 
 const App = () => {
   return (
