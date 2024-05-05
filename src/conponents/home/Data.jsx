@@ -55,7 +55,6 @@ const Data = () => {
           ></path>
         </svg>
       </h1>
-
       <h3 className="home__subtitle">Visual Designer</h3>
       <p className="home__description">
         I'm creative designer based in New York, and I'm very passionate and
